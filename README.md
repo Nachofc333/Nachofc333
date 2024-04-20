@@ -1,45 +1,42 @@
 <p align="center">
-  <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/>
+  <h1 align="center">Hello, I'm <a href="https://github.com/Nachofc333">Nacho Fernández<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
+    
+  <!--<img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/> -->
 </p>
 <hr>
-<h1 align="center">I'm <a href="https://github.com/Nachofc333">Nacho Fernández<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
+
 <Br>
 
 ## About Me :
 
 - 🎓 I am currently studying computer engineering at UC3M.
 - 🏡 Lives in Colmenarejo Madrid.
+- 🌱 Learning about 
 - ⚡ **Fun Facts** : 🍕 🏉 🏏 🎥 🚞
 
 ## What I am Good at 🧑‍💻 :
 
+### My skills
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cpp,python)](https://skillicons.dev)
+### My environments
+[![My Environments](https://skillicons.dev/icons?i=visualstudio,clion,pycharm,windows,linux)](https://skillicons.dev)
 <br>
-
-<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/sass.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img src="https://img.icons8.com/office/48/000000/react.png"/> <img src="https://img.icons8.com/color/48/000000/nextjs.png"/>
-
-<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/> <img src="https://img.icons8.com/officel/48/000000/php-logo.png"/> <img src="https://img.icons8.com/fluency/48/000000/laravel.png"/> <img src="https://img.icons8.com/fluency/48/000000/wordpress.png"/>
-
-<img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img src="https://img.icons8.com/color/48/000000/firebase.png"/>
-
-<img src="https://img.icons8.com/color/48/000000/npm.png"/>
 
 <br>
 
 <h2 align="center">Github stats :bar_chart:</h2>
 
-<h4 align="center">Visitor's count :eyes:</h4>
-
-<p align="center"><img src="https://profile-counter.glitch.me/{AnhellO}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
-
 <h4 align="center">Top langs :tongue:</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnhellO&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nachofc333&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
 
-<h4 align="center">Profile stats :musical_keyboard:</h4>
+<Br>
+<h2 align="center">Get in Touch! 📬</h2>
+<Br>
+<p align="center">
+<a href="https://www.linkedin.com/in/ignacio-fern%C3%A1ndez-ca%C3%B1edo-b557bb285/" target="blank"><img align="center" src="https://img.shields.io/badge/Ignacio Fernández-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:nachoferca3@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/nachoferca3@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://www.github.com/Nachofc333" target="blank"><img align="center" src="https://img.shields.io/badge/Nachofc333-100000?style=for-the-badge&logo=github&logoColor=white" /></a> &nbsp;&nbsp;&nbsp; <a href="https://discord.com/channels/@nachofc333"><img align="center" src="https://img.shields.io/badge/Nachofc333-9146FF?style=for-the-badge&logo=discord&logoColor=white"/></a>
+</p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=AnhellO&show_icons=true&theme=synthwave" alt="AnhellO :: Profile Stats" /></p>
-
-<p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
 <!--
 **Nachofc333/Nachofc333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
