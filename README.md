@@ -12,7 +12,7 @@
 - 🎓 I am currently studying computer engineering at UC3M.
 - 🏡 Lives in Colmenarejo Madrid.
 - 🌱 Studying about Machine Learning, Distributed Systems, Ubiquitous systems and more!
-- ⚡ **Fun Facts** : 🍕 🎥 🥋 🥊 🚗
+- ⚡ **Fun Facts** :  🎥 🥋 🥊 🚗
 
 ## What I am Good at 🧑‍💻 :
 
