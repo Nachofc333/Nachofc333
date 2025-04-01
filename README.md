@@ -11,7 +11,8 @@
 
 - 🎓 I am currently studying computer engineering at UC3M.
 - 🏡 Lives in Colmenarejo Madrid.
-- 🌱 Studying about Machine Learning, Distributed Systems, Ubiquitous systems and more!
+- 🌱 Studying about IoT, AI, DevOps and more!
+- 🎓 Working at GMV: Cybersecurity consultant 
 - ⚡ **Fun Facts** :  🎥 🥋 🥊 🚗
 
 ## What I am Good at 🧑‍💻 :
